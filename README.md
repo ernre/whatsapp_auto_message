@@ -1,7 +1,7 @@
 # 📩 WhatsApp Auto-Messenger (Python + Selenium)
 
 This Python script automates sending messages to all **saved contacts** in your WhatsApp DM list using **Selenium and WhatsApp Web**.  
-In order to **excludes** groups, you might need to add groups mannually. Also skips unsaved numbers and ensures that each contact is only messaged **once**.
+In order to **exclude** groups, you might need to add groups mannually. Also skips unsaved numbers and ensures that each contact is only messaged **once**.
 
 ## ✨ Features
 ✅ Sends a message to all **saved contacts** in your DM list  
